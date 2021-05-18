@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.exe
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.deps.json
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.runtimeconfig.json
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.dll
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\ref\AulaPersonagem.dll
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\bin\Debug\net5.0\AulaPersonagem.pdb
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.dll
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\ref\AulaPersonagem.dll
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.pdb
+C:\Users\55119\Desktop\Backend - POO\AulaPersonagem\AulaPersonagem\obj\Debug\net5.0\AulaPersonagem.genruntimeconfig.cache
