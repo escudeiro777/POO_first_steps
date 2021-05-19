@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.exe
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.deps.json
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.runtimeconfig.json
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.dll
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ref\ExercicioCelular.dll
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\bin\Debug\net5.0\ExercicioCelular.pdb
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.dll
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ref\ExercicioCelular.dll
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.pdb
+C:\Users\55119\Desktop\Backend - POO\ExercicioCelular\obj\Debug\net5.0\ExercicioCelular.genruntimeconfig.cache
