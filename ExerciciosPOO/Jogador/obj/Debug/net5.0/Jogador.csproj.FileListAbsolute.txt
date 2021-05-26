@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.AssemblyInfo.cs
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.exe
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.deps.json
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.json
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.dll
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\ref\Jogador.dll
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.pdb
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.dll
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\ref\Jogador.dll
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.pdb
+C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache
