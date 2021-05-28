@@ -14,6 +14,7 @@ C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Joga
 C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\ref\Jogador.dll
 C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.pdb
 C:\Users\Dev\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.exe
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.deps.json
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\bin\Debug\net5.0\Jogador.runtimeconfig.json
@@ -30,3 +31,5 @@ C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jo
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\ref\Jogador.dll
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.pdb
 C:\Users\55119\Desktop\POO_first_steps\ExerciciosPOO\Jogador\obj\Debug\net5.0\Jogador.genruntimeconfig.cache
+=======
+>>>>>>> 691b90dcebc4fc83a6192583d57939b37773c92d

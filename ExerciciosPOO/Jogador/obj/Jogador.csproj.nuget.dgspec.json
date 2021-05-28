@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\55119\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj": {}
   },
   "projects": {
@@ -15,10 +16,32 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj",
+        "projectName": "Jogador",
+        "projectPath": "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj",
+        "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 691b90dcebc4fc83a6192583d57939b37773c92d
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
+<<<<<<< HEAD
+=======
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+>>>>>>> 691b90dcebc4fc83a6192583d57939b37773c92d
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",

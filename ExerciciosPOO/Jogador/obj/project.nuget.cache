@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "vwYJmK0Y4LZisCpZYIPZFp/FxSDP42M0kK796EKIJhQB6jP7hzeWEmCqcZn/WdflmLVU1p7AhGuiNPR/UV/1Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\55119\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj",
+=======
+  "dgSpecHash": "c2FWacViTaKc6f7Sfe/cms0iHdrrkENdNxt2hm8DY0ZT0Vc6S+jv0dko/QTl1uholB/GvP5FlPgcaqHAtEj5yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev\\Desktop\\POO_first_steps\\ExerciciosPOO\\Jogador\\Jogador.csproj",
+>>>>>>> 691b90dcebc4fc83a6192583d57939b37773c92d
   "expectedPackageFiles": [],
   "logs": []
 }
