@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.exe
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.deps.json
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.runtimeconfig.json
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.dll
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\ref\Cafeteira.dll
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\bin\Debug\net5.0\Cafeteira.pdb
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.dll
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\ref\Cafeteira.dll
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.pdb
+C:\Users\55119\Desktop\Backend - POO\ExerciciosPOO\Cafeteira\obj\Debug\net5.0\Cafeteira.genruntimeconfig.cache
