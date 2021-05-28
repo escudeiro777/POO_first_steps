@@ -25,7 +25,7 @@ namespace Elevador
             }
             else 
             {
-                Console.WriteLine("O elevador está lotado!");
+                Console.WriteLine($"O elevador está lotado! {pessoasPresentes} pessoas presentes");
             }
 
         }
