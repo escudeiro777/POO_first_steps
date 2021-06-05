@@ -1,0 +1,16 @@
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.csprojAssemblyReference.cache
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.AssemblyInfoInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.AssemblyInfo.cs
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.csproj.CoreCompileInputs.cache
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.exe
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.deps.json
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.runtimeconfig.json
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.runtimeconfig.dev.json
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.dll
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ref\ObjArgumento.dll
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\bin\Debug\net5.0\ObjArgumento.pdb
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.dll
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ref\ObjArgumento.dll
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.pdb
+C:\Users\55119\Desktop\Backend - POO\ObjArgumento\obj\Debug\net5.0\ObjArgumento.genruntimeconfig.cache
